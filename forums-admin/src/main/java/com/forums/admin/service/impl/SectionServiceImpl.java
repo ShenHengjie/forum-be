@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/18 15:38
- */
 @Service
 public class SectionServiceImpl extends ServiceImpl<SectionMapper, Section> implements SectionService {
 

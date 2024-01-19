@@ -6,10 +6,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 21:15
- */
 @Component
 public class MyMetaObjectHandler implements MetaObjectHandler{
     @Override

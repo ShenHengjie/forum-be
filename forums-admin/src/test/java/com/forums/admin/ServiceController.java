@@ -11,11 +11,6 @@ import org.junit.Test;
 
 import javax.annotation.Resource;
 import java.util.HashMap;
-
-/**
- * @auther 尚智江
- * @Date 2023/5/2 13:30
- */
 public class ServiceController extends BaseController{
 
     @Resource

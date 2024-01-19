@@ -10,10 +10,6 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/20 19:43
- */
 @Service
 public class StudyServiceImpl extends ServiceImpl<StudyMapper, Study> implements StudyService {
 

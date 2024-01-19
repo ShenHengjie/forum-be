@@ -11,11 +11,6 @@ import org.springframework.test.web.servlet.MockMvc;
 
 import javax.annotation.Resource;
 
-/**
- * @auther 尚智江
- * @Date 2023/5/2 12:35
- */
-
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @WebAppConfiguration

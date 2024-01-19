@@ -21,11 +21,6 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.UUID;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/17 23:18
- */
 @RestController
 @CrossOrigin
 public class UpdateUserController {

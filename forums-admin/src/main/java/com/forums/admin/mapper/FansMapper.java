@@ -6,10 +6,6 @@ import com.forums.model.pojo.Fans;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/27 12:38
- */
 @Mapper
 public interface FansMapper extends BaseMapper<Fans> {
     // 粉丝列表

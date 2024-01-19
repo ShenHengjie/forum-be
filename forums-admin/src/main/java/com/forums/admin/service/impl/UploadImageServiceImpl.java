@@ -20,10 +20,6 @@ import java.awt.image.BufferedImage;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 23:34
- */
 @Service
 public class UploadImageServiceImpl implements UploadImageService {
     private QiNiuYunConfig qiNiuYunConfig;

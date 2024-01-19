@@ -13,11 +13,6 @@ import javax.annotation.Resource;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/21 23:16
- */
 @SpringBootTest
 public class TestA {
 

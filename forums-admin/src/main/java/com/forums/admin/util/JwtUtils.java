@@ -6,10 +6,7 @@ import io.jsonwebtoken.*;
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 22:43
- */
+
 public class JwtUtils {
     // TODO 有效期设置位七天
     private static long time = 1000*60*60*24*7;

@@ -2,10 +2,6 @@ package com.forums.model.result;
 
 import lombok.Getter;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:36
- */
 @Getter
 public enum ResultCodeEnum {
     SUCCESS(200,"成功"),

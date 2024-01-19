@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/27 12:45
- */
 @Service
 public class FansServiceImpl extends ServiceImpl<FansMapper, Fans> implements FansService {
 

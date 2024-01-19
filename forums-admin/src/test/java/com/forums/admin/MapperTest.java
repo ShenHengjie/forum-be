@@ -13,12 +13,6 @@ import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
-
-/**
- * @auther 尚智江
- * @Date 2023/5/2 12:04
- */
-
 public class MapperTest extends BaseController{
     @Resource
     private DianZanMapper dianZanMapper;

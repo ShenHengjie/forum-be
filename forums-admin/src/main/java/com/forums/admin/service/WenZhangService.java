@@ -7,11 +7,6 @@ import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/18 17:59
- */
 @Service
 public interface WenZhangService extends IService<WenZhang> {
 

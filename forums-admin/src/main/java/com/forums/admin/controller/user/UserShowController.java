@@ -19,11 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.List;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/22 17:57
- */
 @RestController
 @CrossOrigin
 public class UserShowController {

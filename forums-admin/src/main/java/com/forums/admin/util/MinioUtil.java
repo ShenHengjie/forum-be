@@ -19,10 +19,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @auther 尚智江
- * @Date 2023/5/4 11:39
- */
 @Component
 @Slf4j
 public class MinioUtil {

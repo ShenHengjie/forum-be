@@ -2,10 +2,6 @@ package com.forums.admin.util;
 
 import java.util.UUID;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 23:35
- */
 public class StringUtil {
     public static String getRandomImgName(String fileName) {
 

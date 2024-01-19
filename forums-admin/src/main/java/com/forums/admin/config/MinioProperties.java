@@ -2,11 +2,6 @@ package com.forums.admin.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
-
-/**
- * @auther 尚智江
- * @Date 2023/5/4 11:42
- */
 @Configuration
 @ConfigurationProperties("minio")
 public class MinioProperties {

@@ -9,10 +9,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/18 15:01
- */
 @TableName("section")
 @Data
 @AllArgsConstructor

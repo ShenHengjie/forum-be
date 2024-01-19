@@ -11,10 +11,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/21 19:30
- */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

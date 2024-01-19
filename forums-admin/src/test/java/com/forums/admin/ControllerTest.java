@@ -8,11 +8,6 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-
-/**
- * @auther 尚智江
- * @Date 2023/5/2 12:33
- */
 public class ControllerTest extends BaseController{
 
     // 学习资源controller测试

@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:58
- */
 @RestController
 @CrossOrigin
 public class DianZanController {

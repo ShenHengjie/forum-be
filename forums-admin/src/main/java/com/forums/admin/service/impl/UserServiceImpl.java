@@ -21,10 +21,6 @@ import java.util.Random;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:19
- */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements UserService {
 

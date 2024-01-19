@@ -12,10 +12,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.HashMap;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/18 18:00
- */
 @Service
 public class WenZhangServiceImpl extends ServiceImpl<WenZhangMapper, WenZhang> implements WenZhangService {
 

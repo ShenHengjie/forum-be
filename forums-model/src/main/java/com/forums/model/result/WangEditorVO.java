@@ -2,10 +2,6 @@ package com.forums.model.result;
 
 import lombok.Data;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/18 19:16
- */
 @Data
 public class WangEditorVO {
     //错误码

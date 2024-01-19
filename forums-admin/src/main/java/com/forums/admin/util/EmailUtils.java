@@ -8,10 +8,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:52
- */
+
 public class EmailUtils {
     /**
      * 发送邮件

@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:04
- */
 @Mapper
 public interface DianZanMapper extends BaseMapper<DianZan> {
 

@@ -2,10 +2,6 @@ package com.forums.model.result;
 
 import lombok.Data;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:37
- */
 @Data
 public class Result<T> {
     /**  返回码  */

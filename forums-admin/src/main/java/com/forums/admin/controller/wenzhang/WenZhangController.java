@@ -19,11 +19,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 import javax.annotation.Resource;
 import java.util.*;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/18 19:16
- */
 @RestController
 @CrossOrigin
 public class WenZhangController {

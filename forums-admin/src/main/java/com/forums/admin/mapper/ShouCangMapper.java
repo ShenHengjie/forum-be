@@ -5,11 +5,6 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.forums.model.pojo.ShouCang;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:07
- */
 @Mapper
 public interface ShouCangMapper extends BaseMapper<ShouCang> {
     // 用户收藏列表返回

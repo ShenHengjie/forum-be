@@ -14,11 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/24 19:01
- */
-
 @RestController
 @CrossOrigin
 public class ShouCangController {

@@ -14,11 +14,6 @@ import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/27 12:39
- */
-
 @RestController
 @CrossOrigin
 public class FollowAndFansController {

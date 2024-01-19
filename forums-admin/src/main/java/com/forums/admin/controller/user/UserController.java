@@ -15,11 +15,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:39
- */
 @RestController
 @CrossOrigin
 public class UserController {

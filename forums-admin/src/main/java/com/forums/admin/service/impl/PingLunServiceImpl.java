@@ -12,10 +12,6 @@ import javax.annotation.Resource;
 import java.util.List;
 
 
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:28
- */
 @Service
 public class PingLunServiceImpl extends ServiceImpl<PingLunMapper, PingLun> implements PingLunService {
 

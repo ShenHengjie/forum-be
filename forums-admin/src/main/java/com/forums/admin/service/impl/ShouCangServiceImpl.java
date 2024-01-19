@@ -16,10 +16,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.Resource;
 import java.util.Date;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:24
- */
 @Service
 public class ShouCangServiceImpl extends ServiceImpl<ShouCangMapper, ShouCang> implements ShouCangService {
 

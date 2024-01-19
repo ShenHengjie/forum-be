@@ -15,11 +15,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/18 15:47
- */
 @RestController
 @CrossOrigin
 public class SectionController {

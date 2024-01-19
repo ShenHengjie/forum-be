@@ -16,10 +16,6 @@ import javax.annotation.Resource;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/21 21:22
- */
 @Service
 public class DianZanServiceImpl extends ServiceImpl<DianZanMapper, DianZan> implements DianZanService {
 

@@ -6,10 +6,6 @@ import com.forums.model.pojo.Follow;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 
-/**
- * @auther 尚智江
- * @Date 2023/4/27 12:40
- */
 @Service
 public interface FollowService extends IService<Follow> {
 

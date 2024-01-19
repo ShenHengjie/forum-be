@@ -6,11 +6,6 @@ import com.forums.model.pojo.DianZan;
 import com.forums.model.pojo.WenZhang;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/18 18:01
- */
 @Mapper
 public interface WenZhangMapper extends BaseMapper<WenZhang> {
 

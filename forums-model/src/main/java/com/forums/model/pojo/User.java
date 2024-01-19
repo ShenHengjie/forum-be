@@ -8,11 +8,6 @@ import lombok.NoArgsConstructor;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.util.Date;
-
-/**
- * @auther 尚智江
- * @Date 2023/4/17 20:14
- */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
